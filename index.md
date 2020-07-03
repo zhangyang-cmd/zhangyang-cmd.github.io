@@ -11,3 +11,4 @@ import time
 while True:
   print("张明悦吃屎了")
   time.sleep(1)
+  '''你还看 智障 上当了吧'''
